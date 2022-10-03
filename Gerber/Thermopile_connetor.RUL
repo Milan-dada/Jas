@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: H:\My Documents\Year 4\Individual Project\PCB_STM32F415RGT6\Thermopile_connetor.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
